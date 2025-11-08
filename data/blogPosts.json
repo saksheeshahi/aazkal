@@ -1,20 +1,21 @@
 [
-{
-  "slug": "ai-stylist",
-  "title": "Meet AazKal’s AI Stylist – Fashion’s New Best Friend 🤖",
-  "category": "Innovation",
-  "date": "Sep 28, 2025",
-  "excerpt": "Discover how AazKal’s AI assistant helps you choose outfits that match your body type, color tone, and personality.",
-  "image": "/blog-ai-stylist.jpg",
-  "content": "The AazKal AI Stylist combines technology and creativity to help you find your perfect look instantly. Upload a picture or describe your outfit goals and get real-time fashion recommendations!"
-},
+  {
+    "slug": "ai-stylist",
+    "title": "Meet AazKal’s AI Stylist – Fashion’s New Best Friend 🤖",
+    "category": "Innovation",
+    "date": "Sep 28, 2025",
+    "excerpt": "Discover how AazKal’s AI assistant helps you choose outfits that match your body type, color tone, and personality.",
+    "image": "/blog-ai-stylist.jpg",
+    "content": "The AazKal AI Stylist combines technology and creativity to help you find your perfect look instantly. Upload a picture or describe your outfit goals and get real-time fashion recommendations!"
+  },
   {
     "slug": "celebrity-look-guide",
     "title": "How to Recreate a Celebrity Look the AazKal Way ✨",
     "category": "Style Guide",
     "date": "Oct 15, 2025",
     "excerpt": "Get step-by-step tips on how to recreate iconic celebrity outfits using pieces available from your favorite stores.",
-    "image": "/blog-celebrity-look.jpg"
+    "image": "/blog-celebrity-look.jpg",
+    "content": "AazKal helps you bring celebrity style into your wardrobe using real, affordable fashion. Start by identifying the star look that inspires you, match similar patterns or fabrics, and complete it with your own twist. Our ‘Create Your Look’ tool and community reels help you visualize and share your inspired outfit with the world."
   },
   {
     "slug": "community-style",
@@ -22,6 +23,7 @@
     "category": "Community",
     "date": "Aug 22, 2025",
     "excerpt": "We feature real heroes from small towns to big cities sharing their fashion stories and the looks that inspire confidence.",
-    "image": "/blog-community.jpg"
+    "image": "/blog-community.jpg",
+    "content": "The AazKal community celebrates the diversity and creativity of real people. From Ghazipur to Mumbai, women are recreating iconic celebrity looks in their own unique way. These stories showcase how fashion becomes a form of expression and empowerment — proving that style has no limits."
   }
 ]
