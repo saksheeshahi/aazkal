@@ -1,0 +1,28 @@
+[
+  {
+    "slug": "kajol",
+    "items": [
+      {
+        "name": "Golden Silk Saree",
+        "price": "₹2,499",
+        "description": "Elegant silk saree similar to Kajol’s Ganesh Chaturthi look.",
+        "image": "/shop/saree-golden.jpg",
+        "link": "https://www.myntra.com/silk-saree"
+      },
+      {
+        "name": "Temple Jewelry Set",
+        "price": "₹1,299",
+        "description": "Traditional temple jewelry set to complete the look.",
+        "image": "/shop/jewelry-temple.jpg",
+        "link": "https://www.amazon.in/temple-jewellery"
+      },
+      {
+        "name": "Red Blouse Fabric",
+        "price": "₹499",
+        "description": "Rich red contrast blouse material inspired by Kajol’s festive style.",
+        "image": "/shop/blouse-red.jpg",
+        "link": "https://www.ajio.com/"
+      }
+    ]
+  }
+]

@@ -1,0 +1,14 @@
+# *
+User-agent: *
+Allow: /
+
+# *
+User-agent: *
+Disallow: /api/*
+Disallow: /admin/*
+
+# Host
+Host: https://www.aazkal.com
+
+# Sitemaps
+Sitemap: https://www.aazkal.com/sitemap.xml
