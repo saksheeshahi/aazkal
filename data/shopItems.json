@@ -4,6 +4,7 @@
     "items": [
       {
         "name": "Golden Silk Saree",
+        "category": "saree",
         "price": "₹2,499",
         "description": "Elegant silk saree similar to Kajol’s Ganesh Chaturthi look.",
         "image": "/shop/saree-golden.jpg",
@@ -11,6 +12,7 @@
       },
       {
         "name": "Temple Jewelry Set",
+        "category": "jewelry",
         "price": "₹1,299",
         "description": "Traditional temple jewelry set to complete the look.",
         "image": "/shop/jewelry-temple.jpg",
@@ -18,11 +20,73 @@
       },
       {
         "name": "Red Blouse Fabric",
+        "category": "blouse",
         "price": "₹499",
         "description": "Rich red contrast blouse material inspired by Kajol’s festive style.",
         "image": "/shop/blouse-red.jpg",
         "link": "https://www.ajio.com/"
       }
+    ]
+  },
+
+
+
+  {
+    "slug": "deepika",
+    "items": [
+      {
+        "name": "Campus Sutra Women’s Double-Breasted Fleece Long Coat – Stylish Winter Overcoat for Casual & Everyday Wear",
+        "category": "coat",
+        "price": "₹2,499",
+        "description": "Buy the Campus Sutra women's double-breasted fleece long coat featuring lapel collar, long sleeves, and button closure. Perfect winter overcoat for casual, everyday, and celebrity-inspired looks.",
+        "image": "/deepika_paris_coat_amazon.avif",
+        "link": "https://amzn.to/4qTbG8l"
+      },
+
+      {
+        "name": "Louis Vuitton LV Biker PM Bag in Black — Deepika Padukone Inspired Look",
+        "category": "bag",
+        "price": "Varies",
+        "description": "The original Louis Vuitton LV Biker PM Bag in black, as seen on Deepika Padukone. This luxury piece features a structured silhouette, premium black leather, signature LV hardware, and bold biker-inspired detailing. A rare collector's accessory with high resale value on StockX.",
+        "image": "https://images.stockx.com/images/Louis-Vuitton-LV-Biker-MM-Black.jpg",
+        "link": "https://stockx.com/louis-vuitton-lv-biker-mm-black"
+      },
+
+      {
+        "name": "Similar Bag: Haute Sauce Black Clairemont Sling Bag With Detachable Strap",
+        "category": "bag",
+        "price": "₹2,749",
+        "description": "A stylish and budget-friendly alternative inspired by the silhouette of Deepika Padukone’s Louis Vuitton LV Biker Bag. Crafted from premium vegan leather, this black Clairemont sling bag features a detachable strap, minimal gold-tone hardware, and a versatile design perfect for everyday chic and transitional looks.",
+        "image": "https://adn-static1.nykaa.com/nykdesignstudio-images/pub/media/catalog/product/8/8/8869c0aSS25HSHB2875_1.jpg",
+        "link": "https://www.nykaafashion.com/haute-sauce-women-black-clairemont-sling-bag-with-detachable-straps/p/19475006"
+      },
+
+      {
+        "name": "H&M Black Crossbody Bag – Coated Fabric with Detachable Strap",
+        "category": "bag",
+        "price": "₹3,999",
+        "description": "H&M black crossbody bag crafted in coated fabric featuring two handles, zip closure, a tab with a metal fastener, and a detachable adjustable shoulder strap. Dimensions: 25 cm (W) × 15 cm (H) × 15 cm (D).",
+        "image": "https://adn-static1.nykaa.com/nykdesignstudio-images/pub/media/catalog/product/8/8/88e62041260912001_1.jpg",
+        "link": "https://www.nykaafashion.com/h-m-crossbody-bag-black/p/23399630"
+      },
+      {
+        "name": "FabSeasons Women White Long-Brim Sun Hat",
+        "category": "hat",
+        "price": "₹699",
+        "description": "A wide long-brim white sun hat inspired by Deepika Padukone’s elegant editorial look. Lightweight, summer-friendly design with a structured brim for a chic silhouette.",
+        "image": "https://assets.myntassets.com/h_1440,q_75,w_1080/v1/assets/images/16518016/2021/12/14/fa15f541-b32b-4694-98b5-0b6e354ff1811639498004138Hat1.jpg",
+        "link": "https://amzn.to/4oIw1f4"
+      },
+      {
+  "name": "RAG & CO Women Pointed Toe Mid-Top Bow Detail Stiletto Ankle Boots",
+  "category": "Ankle Boots",
+  "price": "₹3,311",
+  "description": "Pointed-toe mid-top stiletto ankle boots by RAG & CO with bow detail on the back, microfiber upper and cushioned footbed — stylish for high-fashion and evening wear.",
+  "image": "https://assets.myntassets.com/h_200,w_200,c_fill,g_auto/h_1440,q_75,w_1080/v1/assets/images/2024/NOVEMBER/20/kfGEqgxc_48b874649820458d8310d3faeb4ea818.jpg",
+  "link": "https://www.myntra.com/boots/rag%26co/rag--co-women-pointed-toe-mid-top-bow-detail-stiletto-ankle-boots/31676239/buy"
+}
+
+
     ]
   }
 ]
