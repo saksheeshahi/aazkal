@@ -27,7 +27,6 @@ function renderShopCard(item, index, isOriginal = false) {
       viewport={{ once: true }}
       className="relative bg-white border border-pink-100 rounded-2xl shadow-sm flex flex-col overflow-hidden"
     >
-
       {/* IMAGE */}
       <div
         className={`relative w-full ${
@@ -215,7 +214,9 @@ export default function CelebrityPage({ post, posts }) {
         </div>
 
 
-      {/* 🛍️ SHOP THIS LOOK */}
+
+
+        {/* 🛍️ SHOP THIS LOOK */}
 <section
   id="shop"
   className="bg-gradient-to-b from-[#FFF6F9] to-white rounded-2xl shadow-md border border-pink-100 p-8 scroll-mt-32"
@@ -254,47 +255,12 @@ export default function CelebrityPage({ post, posts }) {
             >
               {/* 🔥 Product Image */}
               <div className="relative w-full h-80 overflow-hidden bg-white rounded-b-lg">
-
-                {/* Always use image for StockX */}
-                {item.link?.includes("stockx") ? (
-                  <img
-                    src={item.image}
-                    alt={item.name}
-                    loading="lazy"
-                    className="w-full h-full object-contain p-4"
-                  />
-                ) : item.embedUrl ? (
-                  <>
-                    <iframe
-                      src={item.embedUrl}
-                      className="w-full h-full"
-                      loading="lazy"
-                      style={{ border: "0" }}
-                      onError={(e) => {
-                        e.target.style.display = "none";
-                        const img = document.getElementById(
-                          `fallback-img-${index}`
-                        );
-                        if (img) img.style.display = "block";
-                      }}
-                    ></iframe>
-
-                    <img
-                      id={`fallback-img-${index}`}
-                      src={item.image}
-                      alt={item.name}
-                      className="w-full h-full object-cover"
-                      style={{ display: "none" }}
-                    />
-                  </>
-                ) : (
-                  <img
-                    src={item.image}
-                    alt={item.name}
-                    loading="lazy"
-                    className="w-full h-full object-cover"
-                  />
-                )}
+                <img
+                  src={item.image}
+                  alt={item.name}
+                  loading="lazy"
+                  className="w-full h-full object-cover"
+                />
 
                 <span className="absolute top-3 left-3 bg-aazpink/90 text-white text-xs font-semibold px-3 py-1 rounded-full shadow-md">
                   {index === 0 ? "Worn in Look" : index === 1 ? "Original Bag" : "Similar Look"}
@@ -316,7 +282,7 @@ export default function CelebrityPage({ post, posts }) {
                   href={item.link}
                   target="_blank"
                   rel="noopener noreferrer"
-                  className="block w-full text-center bg-aazpink text-white py-2 rounded-full font-semibold hover:bg-pink-700 hover:shadow-md transition-all duration-300"
+                  className="block w-full text-center bg-aazpink text-white py-2 rounded-ull font-semibold hover:bg-pink-700 hover:shadow-md transition-all duration-300"
                 >
                   Buy on {brand} →
                 </a>
@@ -353,7 +319,7 @@ export default function CelebrityPage({ post, posts }) {
 
 
 
-// ⭐ Static Generation
+// ⭐ Static Generation (Option A version)
 export async function getStaticPaths() {
   const filePath = path.join(process.cwd(), "data", "celebrityPosts.json");
   const posts = JSON.parse(fs.readFileSync(filePath, "utf8"));
