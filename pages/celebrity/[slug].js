@@ -262,9 +262,12 @@ export default function CelebrityPage({ post, posts }) {
                   className="w-full h-full object-cover"
                 />
 
-                <span className="absolute top-3 left-3 bg-aazpink/90 text-white text-xs font-semibold px-3 py-1 rounded-full shadow-md">
-                  {index === 0 ? "Worn in Look" : index === 1 ? "Original Bag" : "Similar Look"}
-                </span>
+                {/* ⭐ Badge based on JSON tag */}
+  <span className="absolute top-3 left-3 bg-aazpink/90 text-white text-xs font-semibold px-3 py-1 rounded-full shadow-md">
+    {item.tag === "original"
+      ? "Original Look"
+      : "Similar Look"}
+  </span>
               </div>
 
               {/* Text Section */}
@@ -284,7 +287,7 @@ export default function CelebrityPage({ post, posts }) {
                   rel="noopener noreferrer"
                   className="block w-full text-center bg-aazpink text-white py-2 rounded-ull font-semibold hover:bg-pink-700 hover:shadow-md transition-all duration-300"
                 >
-                  Buy on {brand} →
+                  Buy on {item.brand} →
                 </a>
               </div>
             </motion.div>

@@ -2,30 +2,37 @@
   {
     "slug": "kajol",
     "items": [
+     {
+      "name": "Banarasee Handwoven Semi-Silk Saree (Yellow)",      
+      "category": "saree",
+      "brand": "Banarasee",
+      "tag":"Similar",
+      "price": "₹2,199",
+      "description": "Handwoven semi-silk yellow saree with zari border — closest match to the traditional festive look.",
+      "image": "https://www.banarasee.in/cdn/shop/files/IMG_9165_5eec8601-910a-4566-afa4-b3155f74d564.jpg?v=1707297683",
+      "link": "https://www.banarasee.in/products/banarasee-handwoven-semi-silk-plain-saree-with-zari-border-yellow?srsltid=AfmBOooc6CjmGGS4FMg1Tk_NbPf8Es0wrAKvGddWt4PhTQO3uWFaKOGb"
+    },
       {
-        "name": "Golden Silk Saree",
-        "category": "saree",
-        "price": "₹2,499",
-        "description": "Elegant silk saree similar to Kajol’s Ganesh Chaturthi look.",
-        "image": "/shop/saree-golden.jpg",
-        "link": "https://www.myntra.com/silk-saree"
-      },
-      {
-        "name": "Temple Jewelry Set",
-        "category": "jewelry",
-        "price": "₹1,299",
-        "description": "Traditional temple jewelry set to complete the look.",
-        "image": "/shop/jewelry-temple.jpg",
-        "link": "https://www.amazon.in/temple-jewellery"
-      },
-      {
-        "name": "Red Blouse Fabric",
-        "category": "blouse",
-        "price": "₹499",
-        "description": "Rich red contrast blouse material inspired by Kajol’s festive style.",
-        "image": "/shop/blouse-red.jpg",
-        "link": "https://www.ajio.com/"
-      }
+  "name": "Moda Rapido Non-Padded Stretchable Saree Blouse (Red)",
+  "category": "blouse",
+  "brand": "Myntra",
+   "tag":"Similar",
+  "price": "₹196",
+  "description": "A simple, stretchable, non-padded red saree blouse with round neck and short sleeves — perfect contrast for yellow zari sarees and celebrity-inspired festive looks.",
+  "image": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcTNAapxI4m_pFQjhFH6FRQVx-Vtj2tDnkDAP36Hayg0PVB4-SVOVE7iTpCmaxFEHj995uYYZvTfbDMBqJACN_ibYZxD_8mgTDOhpoQ6kA2S_Z8NRAcOcMCW",
+  "link": "https://www.myntra.com/saree-blouse/moda+rapido/moda-rapido-non-padded-stretchable-saree-blouse/34558108/buy"
+},
+{
+  "name": "Griiham Gold Plated Beaded Jewellery Set",
+  "category": "jewellery",
+  "brand": "Myntra",
+   "tag":"Similar",
+  "price": "₹(as displayed on Myntra)",
+  "description": "Elegant gold-plated beaded jewellery set from Griiham, matching the festive traditional saree look.",
+  "image": "https://cf-images.ap-southeast-1.prod.boltdns.net/v1/jit/5745608584001/28540a43-7a10-42b3-adf9-ea6e40201575/main/1280x720/9s822ms/match/image.jpg",
+  "link": "https://www.myntra.com/jewellery-set/griiham/-griiham-gold-plated-beaded-jewellery-set/18772794/buy"
+}
+
     ]
   },
 
@@ -37,6 +44,7 @@
       {
         "name": "Campus Sutra Women’s Double-Breasted Fleece Long Coat – Stylish Winter Overcoat for Casual & Everyday Wear",
         "category": "coat",
+        "brand": "Amazon",
         "price": "₹2,499",
         "description": "Buy the Campus Sutra women's double-breasted fleece long coat featuring lapel collar, long sleeves, and button closure. Perfect winter overcoat for casual, everyday, and celebrity-inspired looks.",
         "image": "/deepika_paris_coat_amazon.avif",
@@ -46,6 +54,7 @@
       {
         "name": "Louis Vuitton LV Biker PM Bag in Black — Deepika Padukone Inspired Look",
         "category": "bag",
+        "brand": "StockX",
         "price": "Varies",
         "description": "The original Louis Vuitton LV Biker PM Bag in black, as seen on Deepika Padukone. This luxury piece features a structured silhouette, premium black leather, signature LV hardware, and bold biker-inspired detailing. A rare collector's accessory with high resale value on StockX.",
         "image": "https://images.stockx.com/images/Louis-Vuitton-LV-Biker-MM-Black.jpg",
@@ -55,6 +64,7 @@
       {
         "name": "Similar Bag: Haute Sauce Black Clairemont Sling Bag With Detachable Strap",
         "category": "bag",
+        "brand": "Nykaa",
         "price": "₹2,749",
         "description": "A stylish and budget-friendly alternative inspired by the silhouette of Deepika Padukone’s Louis Vuitton LV Biker Bag. Crafted from premium vegan leather, this black Clairemont sling bag features a detachable strap, minimal gold-tone hardware, and a versatile design perfect for everyday chic and transitional looks.",
         "image": "https://adn-static1.nykaa.com/nykdesignstudio-images/pub/media/catalog/product/8/8/8869c0aSS25HSHB2875_1.jpg",
@@ -64,6 +74,7 @@
       {
         "name": "H&M Black Crossbody Bag – Coated Fabric with Detachable Strap",
         "category": "bag",
+        "brand": "Nykaa",
         "price": "₹3,999",
         "description": "H&M black crossbody bag crafted in coated fabric featuring two handles, zip closure, a tab with a metal fastener, and a detachable adjustable shoulder strap. Dimensions: 25 cm (W) × 15 cm (H) × 15 cm (D).",
         "image": "https://adn-static1.nykaa.com/nykdesignstudio-images/pub/media/catalog/product/8/8/88e62041260912001_1.jpg",
@@ -72,6 +83,7 @@
       {
         "name": "FabSeasons Women White Long-Brim Sun Hat",
         "category": "hat",
+        "brand": "Amazon",
         "price": "₹699",
         "description": "A wide long-brim white sun hat inspired by Deepika Padukone’s elegant editorial look. Lightweight, summer-friendly design with a structured brim for a chic silhouette.",
         "image": "https://assets.myntassets.com/h_1440,q_75,w_1080/v1/assets/images/16518016/2021/12/14/fa15f541-b32b-4694-98b5-0b6e354ff1811639498004138Hat1.jpg",
@@ -80,13 +92,12 @@
       {
   "name": "RAG & CO Women Pointed Toe Mid-Top Bow Detail Stiletto Ankle Boots",
   "category": "Ankle Boots",
+   "brand": "Myntra",
   "price": "₹3,311",
   "description": "Pointed-toe mid-top stiletto ankle boots by RAG & CO with bow detail on the back, microfiber upper and cushioned footbed — stylish for high-fashion and evening wear.",
   "image": "https://assets.myntassets.com/h_200,w_200,c_fill,g_auto/h_1440,q_75,w_1080/v1/assets/images/2024/NOVEMBER/20/kfGEqgxc_48b874649820458d8310d3faeb4ea818.jpg",
   "link": "https://www.myntra.com/boots/rag%26co/rag--co-women-pointed-toe-mid-top-bow-detail-stiletto-ankle-boots/31676239/buy"
 }
-
-
     ]
   }
 ]

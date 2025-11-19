@@ -33,13 +33,13 @@ export default function Footer() {
       {/* Social Links */}
       <div className="relative z-10 flex justify-center space-x-5 mt-6">
         <a href="https://www.instagram.com/aazkal" target="_blank" rel="noopener noreferrer" aria-label="Instagram">
-          <img src="/icons/instagram.svg" alt="Instagram" className="w-5 h-5 opacity-80 hover:opacity-100 transition" />
+          <img src="/icons/instagram.svg" alt="Instagram" className="w-8 h-8 opacity-80 hover:opacity-100 transition" />
         </a>
         <a href="https://www.youtube.com/@aazkal" target="_blank" rel="noopener noreferrer" aria-label="YouTube">
-          <img src="/icons/youtube.svg" alt="YouTube" className="w-5 h-5 opacity-80 hover:opacity-100 transition" />
+          <img src="/icons/youtube.svg" alt="YouTube" className="w-8 h-8 opacity-80 hover:opacity-100 transition" />
         </a>
         <a href="https://www.pinterest.com/aazkal" target="_blank" rel="noopener noreferrer" aria-label="Pinterest">
-          <img src="/icons/pinterest.svg" alt="Pinterest" className="w-5 h-5 opacity-80 hover:opacity-100 transition" />
+          <img src="/icons/pinterest.svg" alt="Pinterest" className="w-8 h-8 opacity-80 hover:opacity-100 transition" />
         </a>
       </div>
 
